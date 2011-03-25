@@ -1,0 +1,5 @@
+banana 0 1
+zebra 1 0
+monky 1 0
+orange 0 1
+apple 0 1
