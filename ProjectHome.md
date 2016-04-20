@@ -1,0 +1,1 @@
+This project (lda.go) is a sister of the ompi-lda project hosted on http://code.google.com/p/ompi-lda.  In the current stage, lda.go does not yet support parallel training using OpenMP nor MPI, but I am working on parallel training using Go's goroutine and channel.
